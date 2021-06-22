@@ -1,24 +1,26 @@
-# README
+# Micro-Reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+In this project we built a Rails App allowing users to create posts and to comment on them. In order to accomplish this, models for Users, Posts, and Comments were generated and the associations between them were specified. The entity-relationship diagram below shows an overview of how the models (tables) in the app are associated with one another:
 
-Things you may want to cover:
+![Diagram Modules](https://user-images.githubusercontent.com/70488620/123008301-a3ad7900-d388-11eb-806f-44acfb184641.png)
 
-* Ruby version
+## Built With:
 
-* System dependencies
+- Ruby
+- Ruby on Rails
 
-* Configuration
+## Getting Started:
 
-* Database creation
+In order to use test out this project on you local machine please follow the following steps:
 
-* Database initialization
+- Clone the files to your computer by either using Git (i.e. entering the "git clone" command into your terminal followed by the project's URL) or by downloading a zipped folder containing the project files.
+- Open your terminal in the folder containing the project files and run the necessary Rails commands for testing the project.
 
-* How to run the test suite
+## Authors
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### David Alvarez
+- GitHub: @petumazo
+- LinkedIn: https://www.linkedin.com/in/davidalvarezmazzo/
+### Yuvraj Manoo
+- GitHub: @YuvrajM108
+- LinkedIn: https://www.linkedin.com/in/yuvraj-manoo/
